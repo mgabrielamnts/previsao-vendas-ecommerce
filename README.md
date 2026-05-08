@@ -117,46 +117,6 @@ Isso resulta em mais Falsos Positivos (preparação sem venda), mas garante que 
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-📦 previsao-vendas-ecommerce/
-├── 📓 previsao-vendas-ecommerce.ipynb  # Notebook principal
-├── 📄 README.md                         # Este arquivo
-└── 📊 data/
-    └── historical_orders.csv            # (não incluído - dados privados)
-```
-
----
-
-## 🚀 Como Executar
-
-### Pré-requisitos
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn scipy
-```
-
-### Execução
-
-**Opção 1: Google Colab** (Recomendado)
-- Clique no badge "Open in Colab" no topo deste README
-- Execute célula por célula
-
-**Opção 2: Local**
-```bash
-# Clone o repositório
-git clone https://github.com/mgabrielamnts/previsao-vendas-ecommerce.git
-
-# Navegue até o diretório
-cd previsao-vendas-ecommerce
-
-# Abra o notebook
-jupyter notebook previsao-vendas-ecommerce.ipynb
-```
-
----
-
 ## 🔍 Metodologia
 
 ### Validação Temporal
@@ -212,15 +172,9 @@ Profissional em transição para a área de Dados, com formação em Engenharia 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgabrielamnts@gmail.com)
 
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
-
 ---
 
 ## 🙏 Agradecimentos
 
 - **USP** - Curso de Introdução à Ciência de Dados
-- **Comunidade Python** - Bibliotecas open-source incríveis
-
 
